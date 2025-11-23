@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Valter Ribeiro
 
 - 🧑‍💻 Futuro programador Full Stack 
-- 🌱 Atualmente estudando TypeScript, React e Next.js
 - 📫 Contate-me no email: valter122415@gmail.com
-- 📘 Fazendo faculdade de análise e desenvolvimento de sistemas
+- 📘 Análise e desenvolvimento de sistemas
 - 😄 Pronomes: ele/dele
 ##
 
