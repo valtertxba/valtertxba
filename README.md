@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Valter Ribeiro
 
-- 🧑‍💻 Futuro programador Full Stack 
-- 📫 Contate-me no email: valter122415@gmail.com
 - 📘 Análise e desenvolvimento de sistemas
 - 😄 Pronomes: ele/dele
 ##
